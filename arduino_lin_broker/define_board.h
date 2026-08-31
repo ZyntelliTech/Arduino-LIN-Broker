@@ -1,0 +1,2 @@
+#define ARDUINO_STM32
+//#define ARDUINO_MEGA_2560
